@@ -2,7 +2,12 @@
 
 using namespace std;
 
+//struct for node
+struct Node {
+    int data;
+    Node* next;
+};
+
 int main() {
-    cout << "test!";
     return 0;
 }
