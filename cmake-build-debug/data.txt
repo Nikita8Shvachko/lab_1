@@ -1,0 +1,9 @@
+Apple 10
+Lemon1 2
+Cherry 9
+Diablo 4
+pura 115
+Grape 0
+Lemon12 -12
+Orange -110
+Peach -1
